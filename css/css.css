@@ -1,0 +1,66 @@
+body{
+    background-image: url(../img/fondo.jpg);
+    background-repeat: no-repeat;
+    background-size: 200%;
+}
+a{
+    text-decoration: none;
+    color: blue;
+}
+.b5{
+    background-color: orange;
+}
+header{
+    text-align: center;
+}
+.divImagen{
+    text-align: center;
+}
+.fotoinici{
+    width: 30%;
+}
+
+.divprincipal{
+    background-color: white;
+    margin: 60px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.olDesc{
+    list-style-type: upper-latin;
+}
+
+table{
+    border: 1px solid grey;
+    border-collapse: collapse;
+}
+
+.thPrincipal{
+    border: 1px solid grey;
+    background-color: grey;
+    padding: 10px;
+}
+.thSecundario{
+    border: 1px solid grey;
+    padding: 5px;
+}
+.tdPrimario{
+    border: 1px solid grey;
+    padding: 20px;
+    width: 150px;
+}
+.tdSecundario{
+    border: 1px solid grey;
+    padding: 20px;
+    width: 120px; 
+}
+.tdTercero{
+    border: 1px solid grey;
+    padding: 20px;
+    width: 7000px; 
+}
+.aPro{
+    text-decoration: none;
+    color: black;
+}
